@@ -24,3 +24,4 @@ class Solution:
         # if we get here, that means
         # that we had all 9s and we still need to add 1
         return [1] + digits
+        
