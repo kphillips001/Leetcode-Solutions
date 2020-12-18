@@ -16,3 +16,5 @@ class Solution:
         """
         node.val = node.next.val
         node.next = node.next.next
+
+# https://www.youtube.com/watch?v=KRo6T7bdmcQ
