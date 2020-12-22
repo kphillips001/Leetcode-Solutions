@@ -8,4 +8,4 @@ class Solution:
         s = s.split()
         if not s:
             return 0
-        return len(s[-1])
+        return len(s[-1])``
